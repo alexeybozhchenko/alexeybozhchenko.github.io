@@ -1,24 +1,24 @@
-﻿.navigation ul {
+﻿.header ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #333;
 }
-.navigation li {  
+.header li {  
     float: right;
 }
-.navigation li a {
+.header li a {
     display: inline-block;
     color: white;
     text-align: center;
     padding: 20px;
     text-decoration: none;
 }
-.navigation li a:hover {
+.headerli a:hover {
     background-color: #111;
 
 }
-.navigation a:active {
+.header a:active {
     background-color: #4CAF50;
 }
