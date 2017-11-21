@@ -3,7 +3,7 @@ table {
     border-collapse: collapse;
     width: 50em;
     margin:auto;
-    margin-top: 9em;
+    min-height: 50px;
 }
 
 table td{
