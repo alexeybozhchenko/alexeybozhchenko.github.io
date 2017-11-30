@@ -1,4 +1,3 @@
-<script type="text/javascript">
 $(document).ready(function(){
  $('.spoiler_links').click(function(){
   $(this).parent().children('div.spoiler_body').toggle('normal');
@@ -6,4 +5,3 @@ $(document).ready(function(){
   return false;
  });
 });
-</script>
