@@ -18,11 +18,11 @@
 .spoilerText {
    width: 90%;
    height: 0px;
-   padding: 0 15px 0 15px;
-   margin: 0 10px 0 10px;
-   background: #c5cdff;
+   padding: auto;
+   margin: auto;
+   background: #009b9514;
    display: block;
    overflow: hidden;
    transition: height 2s;
-   text-align: center; 
+   text-align: center;
 }
