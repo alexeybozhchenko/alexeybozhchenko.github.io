@@ -14,3 +14,6 @@ table td{
 table tr:nth-child(even){background-color: #01d9d1;}
 
 /*table tr:hover {background-color: #00fff6;}*/
+.selected {
+    color: red;
+}
