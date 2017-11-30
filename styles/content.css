@@ -5,3 +5,7 @@ width: 50em;
 margin:auto;
 margin-top: 4em;
 }
+.spoiler_body {
+     display:none;
+     cursor:pointer;
+}
