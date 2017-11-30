@@ -4,8 +4,8 @@ var text = document.getElementById("spoilerText");
 var button = document.getElementById("spoilerButton");
                
 if(flag == 0 ) {
-    text.style.height = "300px";
-    text.style.overflow = "scroll";
+    text.style.height = "100px";
+    text.style.overflow = "block";
     flag = 1;	
 }
      else {
