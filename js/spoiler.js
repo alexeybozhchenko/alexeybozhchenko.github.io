@@ -1,3 +1,4 @@
+<script type="text/javascript">
 $(document).ready(function(){
  $('.spoiler_links').click(function(){
   $("div[class^='spoiler_body']").hide('normal');
@@ -5,3 +6,4 @@ $(document).ready(function(){
   return false;
  });
 });
+</script>
