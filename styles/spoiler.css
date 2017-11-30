@@ -1,0 +1,28 @@
+.spoilerButton {
+    width: 100%;
+    padding: 10px 0 10px 0;
+    background: #36abfc;
+    text-align: center;
+    font-family: arial;
+    color: white;
+    cursor: pointer;
+    transition: width 1s;
+    font-weight: bold;
+	border-radius: 5px;
+}
+
+.spoilerButton:hover {
+	background: #0090f7;
+}
+
+.spoilerText {
+   width: 90%;
+   height: 0px;
+   padding: 0 15px 0 15px;
+   margin: 0 10px 0 10px;
+   background: #eeeff5;
+   display: block;
+   overflow: hidden;
+   transition: height 1s;
+   text-align: left; 
+}
