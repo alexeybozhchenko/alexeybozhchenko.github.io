@@ -1,4 +1,6 @@
 var flag = 0;
+text.style.height = "0px";
+text.style.overflow = "hidden";
 function spoiler() {
 var text = document.getElementById("spoilerText");
 var button = document.getElementById("spoilerButton");
