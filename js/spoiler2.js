@@ -4,7 +4,7 @@ var text = document.getElementById("spoilerText");
 var button = document.getElementById("spoilerButton");
                
 if(flag == 0 ) {
-    text.style.height = "100px";
+    text.style.height = "inherit";
     text.style.overflow = "inherit";
     flag = 1;	
 }

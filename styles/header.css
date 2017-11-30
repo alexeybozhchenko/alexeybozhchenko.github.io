@@ -1,5 +1,9 @@
 h1{
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
   text-align: center;
+  cursor:pointer;
 }
-
+h1:hover{
+    color:aqua;
+    cursor:pointer;
+}
